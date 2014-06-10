@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pocket Widget v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-10 10:05:33+0000\n"
+"Last-Translator: sjeiti <ron@sjeiti.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: PocketWidget.php:10
+#@ pocketwidget
+msgid "Title:"
+msgstr ""
+
+#: PocketWidget.php:22
+#@ pocketwidget
+msgid "State"
+msgstr ""
+
+#: PocketWidget.php:23
+#@ pocketwidget
+msgid "Favorite"
+msgstr ""
+
+#: PocketWidget.php:25
+#@ pocketwidget
+msgid "Count"
+msgstr ""
+
+#: PocketWidget.php:98
+#@ pocketwidget
+msgid "Something went wrong while connecting to Pocket. Try re-authenticating in the backend."
+msgstr ""
+
+#: PocketWidget.php:141
+#@ pocketwidget
+msgid "Before this widget works you'll have to authenticate it with Pocket first."
+msgstr ""
+
+#: PocketWidgetPlugin.php:60
+#: PocketWidgetPlugin.php:109
+#@ pocketwidget
+msgid "Pocket widget options"
+msgstr ""
+
+#: PocketWidgetPlugin.php:60
+#@ pocketwidget
+msgid "Pocket widget"
+msgstr ""
+
+#: PocketWidgetPlugin.php:114
+#@ pocketwidget
+msgid "_explainPocketwidget"
+msgstr "<p>Welcome to the Pocket widget.<br/>Before you start you need to authenticate the plugin to access your Pocket account by clicking <strong>authenticate</strong>. This wil take you to Pocket which will ask you to If you <strong>authorize</strong> this plugin. You'll then be taken back to the settings page.<br/>The newly added 'Access token' together with the 'Consumer key' is your access to Pocket.</p>"
+
+#: PocketWidgetPlugin.php:117
+#@ pocketwidget
+msgid "Save changes"
+msgstr ""
+
+#: PocketWidgetPlugin.php:151
+#@ pocketwidget
+msgid "Consumer key"
+msgstr ""
+
+#: PocketWidgetPlugin.php:157
+#@ pocketwidget
+msgid "Authorize"
+msgstr ""
+
+#: PocketWidgetPlugin.php:158
+#@ pocketwidget
+msgid "Reset to default"
+msgstr ""
+
+#: PocketWidgetPlugin.php:160
+#@ pocketwidget
+msgid "Access token:"
+msgstr ""
+
+#: PocketWidgetPlugin.php:162
+#@ pocketwidget
+msgid "Revoke"
+msgstr ""
+
+#: PocketWidgetPluginBase.php:181
+#: PocketWidgetPluginBase.php:219
+#: inc/FormElement.php:200
+#@ default
+msgid "Add value"
+msgstr ""
+
+#: PocketWidgetPlugin.php:119
+#@ pocketwidget
+msgid "_explainPocketwidgetApi"
+msgstr "<p>By default Pocket Widget has it's own Pocket App for API access.<br/>You can easily setup your own by going to <a href=\\\"http://getpocket.com/developer/apps/\\\" target=\\\"_blank\\\">http://getpocket.com/developer/apps/</a> and clicking <strong>Create an Application</strong>.<br/>Give it a name, allow it only to <strong>retreive</strong>, and set the platform to <strong>web</strong>. Then accept terms of service and click <strong>create application</strong>.<br/>Copy the <strong>consumer key</strong> to the Pocket Widget settings and click <strong>Save changes</strong>.</p>"
+
