@@ -49,7 +49,6 @@ class PocketWidget extends WP_Widget {
         extract( $args );
         $sTitle = isset($instance['title'])?apply_filters('widget_title', $instance['title']):'';
 		//
-//		dump($instance);
 		$aOptions = array(
 			'detailType' => 'simple'
 			,'state' => $instance['state']

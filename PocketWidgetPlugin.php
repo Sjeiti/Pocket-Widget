@@ -2,7 +2,7 @@
 /*
 Plugin Name:	Pocket Widget
 Plugin URI:		http://pocketwidget.sjeiti.com/
-Version:		1.0.0
+Version:		0.1.3
 WordPress Version: 3.0.3
 Author:			Ron Valstar
 Author URI:		http://sjeiti.com/
